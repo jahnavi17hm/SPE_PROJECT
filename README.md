@@ -8,3 +8,4 @@ A Web Application created for ordering food from various canteens in the IIIT Ca
 ## Running
 - Go to `/backend` and run `npm start`
 - In another window, go to `/frontend` and run `npm start`
+- 
